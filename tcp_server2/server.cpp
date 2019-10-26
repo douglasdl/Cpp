@@ -60,7 +60,3 @@ int main()
         close(clientSocket);
     }
 }
-//int getnameinfo(const struct sockaddr *addr, socklen_t addrlen,
-//                       char *host, socklen_t hostlen,
-//                       char *serv, socklen_t servlen, int flags);
-//void *memset(void *s, int c, size_t n);
